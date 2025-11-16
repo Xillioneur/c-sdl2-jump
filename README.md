@@ -1,4 +1,4 @@
-# C SDl2 Jump - Episode 1 of Code Review
+# C SDL2 Jump - Episode 1 of Code Review
 
 This is a short game of just jumping. No score. No hands or feet. Just jumping. Amen and selah to you all. Please play the game for free and not the monetary.
 
